@@ -2349,9 +2349,9 @@
         },
         "gc_tagall": {
             "texto1": [
-                "*𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*",
-                "*⺀𝙸 𝙽 𝚅 𝙾 𝙲 𝙰 𝙽 𝙳 𝙾 - 𝙶 𝚁 𝚄 𝙿 𝙾⺀*\n\n❏",
-                "❏ *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*"
+                "*𝐌𝐞𝐧𝐬𝐚𝐣𝐞:*",
+                "*𝐀𝐜𝐭𝐢𝐯𝐞𝐧𝐬𝐞 𝐀𝐥𝐯!!*\n\n",
+                "*𝐌𝐞𝐧𝐜𝐢𝐨𝐧𝐞𝐬:*"
             ]
         },
         "gc_unwarn": {
@@ -2705,11 +2705,11 @@
             "texto1": [
                 "*𝙷𝙾𝙻𝙰 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 𝚃𝙴 𝙸𝙽𝚅𝙸𝚃𝙾 𝙰 𝚄𝙽𝙸𝚁𝚃𝙴 𝙰 𝙻𝙾𝚂 𝙶𝚁𝚄𝙿𝙾𝚂 𝙾𝙵𝙸𝙲𝙸𝙰𝙻𝙴𝚂 𝙳𝙴 𝚂𝙷𝙰𝙳𝙾𝚆*",
                 "*➤ 𝙶𝚛𝚞𝚙𝚘𝚜 𝚘𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜 𝚍𝚎𝚕 𝙱𝚘𝚝:*",
-                "*1.-* https://chat.whatsapp.com/LjJbmdO0qSDEKgB60qivZj",
-                "*2.-* https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs",
-                "*3.-* https://chat.whatsapp.com/BW0P22xx7EGBTdH5IM851F",
-                "*4.-* https://chat.whatsapp.com/CjexkGVr37J6GuSdDVAHzC",
-                "*5.-* https://chat.whatsapp.com/DLrFJUPxEQ2IrOm7sJWJ0k"
+                "*1.-* https://whatsapp.com/channel/0029Vb52QvDCsU9Iw0iIc23l",
+                "*2.-* https://chat.whatsapp.com/LB0R72iDtxsEDuaacQcj4T",
+                "*3.-* https://whatsapp.com/channel/0029Vb52QvDCsU9Iw0iIc23l",
+                "*4.-* https://chat.whatsapp.com/LB0R72iDtxsEDuaacQcj4T",
+                "*5.-* https://whatsapp.com/channel/0029Vb52QvDCsU9Iw0iIc23l"
             ],
             "texto2": "「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」",
             "texto3": "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩"
@@ -3832,16 +3832,16 @@
             ]
         },
         "dfail": {
-            "texto1": "*[❗] Este comando solo puede ser utilizado por el propietario del bot.*",
-            "texto2": "*[❗] Este comando solo puede ser utilizado por el propietario del bot.*",
-            "texto3": "*[❗] Este comando solo puede ser utilizado por moderadores y el propietario del bot.*",
-            "texto4": "*[❗] Este comando solo puede ser utilizado por usurios premium y el propietario del bot.*",
-            "texto5": "*[❗] Este comando solo puede ser utilizado en grupos.*",
-            "texto6": "*[❗] Este comando solo puede ser utilizado en el chat privado del bot.*",
-            "texto7": "*[❗] Este comando solo puede ser usado por administradores del grupo.*",
-            "texto8": "*[❗] Para utilizar este comando es necesario que el bot sea administrador del grupo.*",
-            "texto9": "*[❗] Para utilizar este comando debes estar registrado.*\n\n*[ 💡 ] Utiliza el comando:* _/verificar nombre.edad_ *para registrarte.*",
-            "texto10": "*[❗] Este comando fue desactivado por el propietario del bot.*",
+            "texto1": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐄𝐧 𝐆𝐫𝐮𝐩𝐨𝐬.*",
+            "texto2": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐄𝐧 𝐆𝐫𝐮𝐩𝐨𝐬.*",
+            "texto3": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐄𝐧 𝐆𝐫𝐮𝐩𝐨𝐬.*",
+            "texto4": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐄𝐧 𝐆𝐫𝐮𝐩𝐨𝐬.*",
+            "texto5": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐄𝐧 𝐆𝐫𝐮𝐩𝐨𝐬.*",
+            "texto6": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐄𝐧 𝐄𝐥 𝐏𝐫𝐢𝐯 𝐃𝐞𝐥 𝐁𝐨𝐭.*",
+            "texto7": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐒𝐨𝐥𝐚𝐦𝐞𝐧𝐭𝐞 𝐏𝐮𝐞𝐝𝐞 𝐒𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐝𝐨 𝐏𝐨𝐫 𝐀𝐝𝐦𝐢𝐧𝐬 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*",
+            "texto8": "*[❗] 𝐄𝐬 𝐍𝐞𝐜𝐞𝐬𝐚𝐫𝐢𝐨 𝐐𝐮𝐞 𝐄𝐥 𝐁𝐨𝐭 𝐒𝐞𝐚 𝐀𝐝𝐦𝐢𝐧 𝐏𝐚𝐫𝐚 𝐔𝐭𝐢𝐥𝐢𝐳𝐚𝐫 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨.*",
+            "texto9": "*[❗] 𝐏𝐚𝐫𝐚 𝐔𝐬𝐚𝐫 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐄𝐬 𝐍𝐞𝐜𝐞𝐬𝐚𝐫𝐢𝐨 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐫𝐭𝐞.*\n\n*[ 💡 ] 𝐔𝐭𝐢𝐥𝐢𝐳𝐚 𝐄𝐥 𝐂𝐨𝐦𝐚𝐧𝐝𝐨:* _/verificar nombre.edad_ *para registrarte.*",
+            "texto10": "*[❗] 𝐄𝐬𝐭𝐞 𝐂𝐨𝐦𝐚𝐧𝐝𝐨 𝐅𝐮𝐞 𝐃𝐞𝐬𝐡𝐚𝐛𝐢𝐥𝐢𝐭𝐚𝐝𝐨 𝐏𝐨𝐫 𝐄𝐥 𝐃𝐮𝐞𝐧̃𝐨 𝐃𝐞𝐥 𝐁𝐨𝐭.*",
             "texto11": [
                 "*[ ⚠ ] Advertencia*",
                 "*[ ⚠ ] Advertencia*",
@@ -3849,14 +3849,14 @@
             ]
         },
         "participantsUpdate": {
-            "texto1": "👋 ¡Bienvenido/a!\n@user",
-            "texto2": "👋 ¡Hasta luego!\n@user",
-            "texto3": "*[❗] @user Fue promovido a administrador.*",
-            "texto4": "*[❗] @user Fue degradado de administrador.*",
-            "texto5": "*[❗] La descripción del grupo ha sido modificada.*",
-            "texto6": "*[❗] El nombre del grupo ha sido modificado.*",
-            "texto7": "*[❗] Se ha cambiado la foto de perfil del grupo.*",
-            "texto8": "*[❗] El enlace de invitación al grupo ha sido restablecido.*"
+            "texto1": "𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐱 \n @user \n 𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭",
+            "texto2": "𝐇𝐚𝐬𝐭𝐚 𝐍𝐮𝐧𝐜𝐚!! \n@user \n 𝐏𝐚𝐧𝐝𝐚 𝐁𝐨𝐭",
+            "texto3": "*[❗] @user 𝐒𝐞 𝐒𝐮𝐦𝐚 𝐀𝐥 𝐆𝐫𝐮𝐩𝐨 𝐃𝐞 𝐀𝐝𝐦𝐢𝐧𝐬.*",
+            "texto4": "*[❗] @user 𝐀𝐛𝐚𝐧𝐝𝐨𝐧𝐚 𝐄𝐥 𝐆𝐫𝐮𝐩𝐨 𝐃𝐞 𝐀𝐝𝐦𝐢𝐧𝐬.*",
+            "texto5": "*[❗] 𝐒𝐞 𝐇𝐚 𝐌𝐨𝐝𝐢𝐟𝐢𝐜𝐚𝐝𝐨 𝐋𝐚 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐜𝐢𝐨𝐧 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*",
+            "texto6": "*[❗] 𝐒𝐞 𝐇𝐚 𝐌𝐨𝐝𝐢𝐟𝐢𝐜𝐚𝐝𝐨 𝐄𝐥 𝐍𝐨𝐦𝐛𝐫𝐞 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*",
+            "texto7": "*[❗] 𝐒𝐞 𝐇𝐚 𝐌𝐨𝐝𝐢𝐟𝐢𝐜𝐚𝐝𝐨 𝐋𝐚 𝐈𝐦𝐚𝐠𝐞𝐧 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*",
+            "texto8": "*[❗] 𝐒𝐞 𝐇𝐚 𝐑𝐞𝐬𝐭𝐚𝐛𝐥𝐞𝐜𝐢𝐝𝐨 𝐄𝐥 𝐋𝐢𝐧𝐤 𝐃𝐞𝐥 𝐆𝐫𝐮𝐩𝐨.*"
         },
         "deleteUpdate": {
             "texto1": [
